@@ -1,5 +1,5 @@
 # Ball Tracker
-Ball tracker based on the color of the ball. Uses traditional computer vision techniques to isolate the color of the ball and then find the ball based off teh color threshold image.
+Ball tracker based on the color of the ball. Uses traditional computer vision techniques to isolate the color of the ball and then find the ball based off the color threshold image.
 
 ![Ball Tracker](/data/ball_tracker.png)
 
